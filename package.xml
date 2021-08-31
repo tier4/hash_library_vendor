@@ -9,6 +9,7 @@
   <license>Zlib License</license>  <!-- hash-library is Zlib License -->
 
   <url type="website">https://github.com/stbrumme/hash-library</url>
+  <author>Stephan Brumme</author>
 
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
 
