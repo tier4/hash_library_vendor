@@ -2,8 +2,8 @@
 Changelog for package hash_library_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2021-12-15)
+------------------
 * Declare missing dependency on git (`#8 <https://github.com/tier4/hash_library_vendor/issues/8>`_)
 * Contributors: Scott K Logan
 
