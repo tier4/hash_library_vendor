@@ -2,6 +2,11 @@
 Changelog for package hash_library_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Declare missing dependency on git (`#8 <https://github.com/tier4/hash_library_vendor/issues/8>`_)
+* Contributors: Scott K Logan
+
 0.1.0 (2021-11-23)
 ------------------
 * Bump streetsidesoftware/cspell-action from 1.3.1 to 1.3.5 (`#6 <https://github.com/tier4/hash_library_vendor/issues/6>`_)
