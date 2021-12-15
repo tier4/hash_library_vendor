@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>hash_library_vendor</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>ROS2 vendor package for stbrumme/hash-library</description>
   <maintainer email="kenji.miyake@tier4.jp">Kenji Miyake</maintainer>
   <license>Apache License 2.0</license>  <!-- the contents of this package are Apache License 2.0 -->
